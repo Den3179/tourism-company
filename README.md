@@ -1,1 +1,0 @@
-# naZar loshara
