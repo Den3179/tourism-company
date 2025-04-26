@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
+body {
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0px;
+    height: 100vh;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.popular-text{
+    text-align: center;
+    font-size: 30px;
+}
+
+.popular-img-Div{
+    border-top: 3px solid #FF6600;
+    border-bottom: 3px solid #FF6600;
+    margin-top: 15px;
+    overflow: hidden;
+    height: 550px;
+}
+
+.popular-img-1{
+    width: 100%;
+}
