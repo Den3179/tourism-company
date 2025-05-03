@@ -204,6 +204,53 @@ main.hero {
   width: 25px;
 }
 
+/* About Us Section */
+.about-us-section {
+  padding: 50px 0;
+  background-color: #f5f5f5;
+}
+
+.about-us-container {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  max-width: 100%;
+  margin: auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.about-us-image-container {
+  display: flex;
+  justify-content: center;
+}
+
+.about-us-image-container img {
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.about-us-text-container {
+  text-align: center;
+  padding: 10px;
+  margin-left: 25px;
+}
+
+.about-us-text-container h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.about-us-text-container p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  text-align: left;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .container {
