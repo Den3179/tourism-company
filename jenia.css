@@ -1,0 +1,35 @@
+.a {
+    background-color: white;
+}
+
+.b {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.c {
+    background-color: blue;
+}
+
+.Купити {
+
+    background-color: blue;
+}
+
+.opus {
+    text-align: center;
+
+}
+
+.Верх1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.Верх3 {}
+
+.plane {
+    width: 150px;
+    height: 100px;
+}
