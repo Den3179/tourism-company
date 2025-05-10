@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+div {
+    background-color:white;
+}
+.ticket{
+    width:500px;
+    height:300px;
+}
+.upper{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    height: 50%;
+    padding: 10px;
+}
+.lower {
+    display: flex;
+    justify-content:space-around;
+    background-color: blue;
+    height: 50%;
+    padding: 10px;
+}
+.upper {
+    width: 100%;
+    background-color: yellow;
+}
+
+img {
+    width: 200px
+}
+.price {
+    font-size: 32px;
+}
+.carrier {
+    font-size: 32px;
+}
