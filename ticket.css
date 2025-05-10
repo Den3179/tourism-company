@@ -1,0 +1,24 @@
+.ticket {
+    width: 500px;
+    height: 300px;
+    border: 2px black solid;
+}
+
+.upper {
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    height: 50%;
+    padding: 10px;
+}
+.lower {
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    height: 50%;
+    padding: 10px;
+}
+.upper > * {
+    width: 30%;
+    background-color: yellow;
+}
