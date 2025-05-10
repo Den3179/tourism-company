@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
+* {
+    font-family: "Days One", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.search-Div{
+    background-color: #210085;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search-text{
+    color: #fff;
+    font-size: 40px;
+    -webkit-text-stroke: 0.5px black;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 20px;
+}
+
+.search{
+    border: 1px solid black;
+    height: 70px;
+    width: 920px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    background-color: #fff;
+}
+
+.from{
+    height: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-left: 15px;
+    width: 250px;
+}
+
+.to{
+    height: 50px;
+    padding-left: 15px;
+    width: 250px;
+}
+
+.date{
+    height: 50px;
+    padding-left: 15px;
+    width: 250px;
+}
+
+input{
+    font-size: 22px;
+    outline: none;
+    border: 1px solid black;
+}
+
+input::placeholder{
+    font-size: 22px;
+    color: #fff;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.button-search{
+    height: 50px;
+    width: 125px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 25px;
+    color: #fff;
+    background-color: #FF6600;
+    border: none;
+}
