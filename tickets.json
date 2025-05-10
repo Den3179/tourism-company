@@ -1,3 +1,92 @@
 [
-    {"from": "Ukraine", "to": "Spain", "carrierName": "123", "isPaid": true}
+  {
+    "prise": "120 USD",
+    "departure-time": "2025-06-15T08:30",
+    "erival-time": "2025-06-15T12:45",
+    "travel-time": "4h 15m",
+    "carier": "Lufthansa",
+    "start": "Kyiv (KBP)",
+    "end": "Berlin (BER)"
+  },
+  {
+    "prise": "98 USD",
+    "departure-time": "2025-06-20T14:20",
+    "erival-time": "2025-06-20T16:30",
+    "travel-time": "2h 10m",
+    "carier": "Ryanair",
+    "start": "Warsaw (WAW)",
+    "end": "London (STN)"
+  },
+  {
+    "prise": "215 USD",
+    "departure-time": "2025-07-01T22:00",
+    "erival-time": "2025-07-02T02:50",
+    "travel-time": "4h 50m",
+    "carier": "Turkish Airlines",
+    "start": "Kyiv (KBP)",
+    "end": "Istanbul (IST)"
+  },
+  {
+    "prise": "330 USD",
+    "departure-time": "2025-06-10T06:10",
+    "erival-time": "2025-06-10T10:30",
+    "travel-time": "4h 20m",
+    "carier": "Air France",
+    "start": "Paris (CDG)",
+    "end": "Lisbon (LIS)"
+  },
+  {
+    "prise": "175 USD",
+    "departure-time": "2025-07-04T11:00",
+    "erival-time": "2025-07-04T13:00",
+    "travel-time": "2h 00m",
+    "carier": "Wizz Air",
+    "start": "Budapest (BUD)",
+    "end": "Rome (FCO)"
+  },
+  {
+    "prise": "255 USD",
+    "departure-time": "2025-06-25T17:45",
+    "erival-time": "2025-06-25T22:15",
+    "travel-time": "4h 30m",
+    "carier": "KLM",
+    "start": "Amsterdam (AMS)",
+    "end": "Athens (ATH)"
+  },
+  {
+    "prise": "310 USD",
+    "departure-time": "2025-06-30T09:30",
+    "erival-time": "2025-06-30T13:40",
+    "travel-time": "4h 10m",
+    "carier": "British Airways",
+    "start": "London (LHR)",
+    "end": "Prague (PRG)"
+  },
+  {
+    "prise": "290 USD",
+    "departure-time": "2025-07-12T05:00",
+    "erival-time": "2025-07-12T08:30",
+    "travel-time": "3h 30m",
+    "carier": "Austrian Airlines",
+    "start": "Vienna (VIE)",
+    "end": "Madrid (MAD)"
+  },
+  {
+    "prise": "260 USD",
+    "departure-time": "2025-06-22T19:00",
+    "erival-time": "2025-06-22T23:20",
+    "travel-time": "4h 20m",
+    "carier": "SWISS",
+    "start": "Zurich (ZRH)",
+    "end": "Barcelona (BCN)"
+  },
+  {
+    "prise": "150 USD",
+    "departure-time": "2025-06-18T13:15",
+    "erival-time": "2025-06-18T16:00",
+    "travel-time": "2h 45m",
+    "carier": "easyJet",
+    "start": "Milan (MXP)",
+    "end": "Vienna (VIE)"
+  }
 ]
